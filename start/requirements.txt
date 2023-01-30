@@ -2,14 +2,9 @@ telethon
 uuid
 configparser
 loguru
-sys
-time
-random
-os
 pyperclip
 asyncio
 requests
 opentele
-hashlib
 eel
-PySocks
+pysocks
