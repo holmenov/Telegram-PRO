@@ -1,0 +1,12 @@
+telethon
+uuid
+configparser
+loguru
+pyperclip
+asyncio
+requests
+opentele
+eel
+pysocks
+telebot
+Pillow
